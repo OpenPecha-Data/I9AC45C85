@@ -1,0 +1,37 @@
+id: I9AC45C85
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T03:36:46.652358'
+last_modified: '2022-06-19T03:36:46.652373'
+parser: null
+source_metadata:
+  title: Kun dga blo gross (1729–1783) Sakya Genealogy Supplement
+  author: bdag chen ngag dbang kun dga blo gros/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2011-03); converted from external file, revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mrs. Lhandzom Everding (Bonn), pp. 1-150 (le), Dawa Dhondup (Dehradun)
+    (dd)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:Dawa (dd), editors (ed)
+  text_witnesses: https://sakyaresearch.org/sources/229
+  bases:
+    d5a9:
+      title: Kun dga blo gross (1729–1783) Sakya Genealogy Supplement
+      order: 1
+      base_file: d5a9.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
